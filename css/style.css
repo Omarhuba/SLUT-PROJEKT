@@ -143,7 +143,7 @@ html {
 
 
 .section-contact {
-    background-image: url(/images/map.png);
+    background-image: url(../images/map.png);
     height: 500px;
     width: 100%;
     display: flex;
@@ -470,7 +470,7 @@ html {
 
     header > .box1{
         height: 80vh;
-        background-image: url(/images/family.png);
+        background-image: url(../images/family.png);
         background-repeat: no-repeat;
         background-position: bottom right;
         background-size: 70%;
@@ -621,16 +621,16 @@ html {
      }
     
      .img1 {
-        background-image: url(/images/child.png);
+        background-image: url(../images/child.png);
      }
 
      .img2 {
-        background-image: url(/images/adult.png);
+        background-image: url(../images/adult.png);
         background-color: var(--secondaryColor);
      }
 
      .img3 {
-        background-image: url(/images/old.png);
+        background-image: url(../images/old.png);
         background-color: var(--primaryColor);
      }
 
@@ -767,7 +767,7 @@ html {
     
     header > .box1{
         height: 80vh;
-        background-image: url(/images/family.png);
+        background-image: url(../images/family.png);
         background-repeat: no-repeat;
         background-position: bottom center;
         background-size: 80%;
@@ -879,7 +879,7 @@ html {
         color: rgb(134, 134, 134); 
     }
     .img1 {
-        background-image: url(/images/child.png);
+        background-image: url(../images/child.png);
         background-size: 60px;
         background-color: var(--thireColor);
         width: 210px;
@@ -906,7 +906,7 @@ html {
         color: rgb(134, 134, 134); 
     }
     .img2 {
-        background-image: url(/images/adult.png);
+        background-image: url(../images/adult.png);
         background-size: 60px;
         background-color: var(--secondaryColor);
         width: 210px;
@@ -932,7 +932,7 @@ html {
         color: rgb(134, 134, 134); 
     }
     .img3 {
-        background-image: url(/images/old.png);
+        background-image: url(../images/old.png);
         background-size: 60px;
         background-color: var(--primaryColor);
         width: 210px;
